@@ -1,1 +1,1 @@
-SELECT id FROM Contact
+SELECT id, Name FROM Contact
